@@ -1,6 +1,6 @@
 # ComfyUI-PainterI2VforKJ
 
-此节点由抖音博主：绘画小子 制作。
+此节点是从KJ的wanimagetovideo节点修改而来，感谢KJ🙏
 
 Wan2.2 图生视频增强节点-KJ工作流专用，专门针对4步LoRA（如 lightx2v）的慢动作问题进行优化。
 
@@ -115,7 +115,7 @@ git clone https://github.com/princepainter/ComfyUI-PainterI2VforKJ.git
 
 - # ComfyUI-Painterl2V
 
-This node is created by Douyin creator: 绘画小子
+This node is modified from KJ's wanimagetovideo node. Thanks to KJ 🙏
 
 PainterI2V node that specifically fixes the slow-motion issue in 4-step LoRAs (e.g., lightx2v).KJ wan2.2-i2v workflow dedicated
 
